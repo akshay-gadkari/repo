@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "gatsby": "^2.0.119",
-    "gatsby-source-datocms": "^2.0.1",
+    "gatsby-source-datocms": "^2.6.18",
     "react": "^16.8.1",
     "react-dom": "^16.8.1"
   },
